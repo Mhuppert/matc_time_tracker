@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  started_at: 2010-02-16 20:45:37
+  ended_at: 2010-02-16 20:45:37
+
+two:
+  started_at: 2010-02-16 20:45:37
+  ended_at: 2010-02-16 20:45:37
